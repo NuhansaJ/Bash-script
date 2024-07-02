@@ -1,4 +1,4 @@
-# Bash-script
+# Bash-script overview
 
 The main functionality of this script is to perform recon on a target. The target must be specified 
 as a URL or IP address. This script performs a host reachability test through ping, scans and 
