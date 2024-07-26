@@ -1,4 +1,4 @@
-if [ $# -ne 1 ]; then 
+if [ $# -ne 1 ]; then
   echo "Pls enter it like : $0 <target>" 
 exit 1 
 fi 
